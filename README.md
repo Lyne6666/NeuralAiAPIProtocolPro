@@ -1,2 +1,1 @@
-# NeuralAiAPIProtocolPro
-Advanced NeuralAiAPIProtocolPro project
+.
